@@ -8,3 +8,4 @@ To work, this app uses:
 - react.js
 
 Frontend design looks like this:
+![alt text](https://github.com/fpv-life/Twitter/blob/master/img/welcome.PNG)
