@@ -167,7 +167,6 @@ const App = () => {
                     setLocations(array);
                     array = objects.splice(key, 1);
                     setObjects(array);
-                    //objects.splice(locations[i-1], 1);
                   }}>Remove</button></td>
               </tr>
               </>
