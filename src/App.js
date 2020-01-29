@@ -16,7 +16,7 @@ const App = () => {
   let i = 0;     
   
   var platform = new H.service.Platform({
-    apikey: "ZxwsS89OjHMbyXLctmXRgOnugOgz1xgb9hGiwXdqTHg"
+    apikey: ""
   });
             
   const DisplayMapFC = () => {
@@ -58,7 +58,7 @@ const App = () => {
       "headers":{
       "content-type":"application/octet-stream",
       "x-rapidapi-host":"devru-latitude-longitude-find-v1.p.rapidapi.com",
-      "x-rapidapi-key":"b396477596mshc6746497eeadb3ap1f808ajsn4c563bac1b2b"
+      "x-rapidapi-key":""
       },"params":{
         "location":temp
       }
