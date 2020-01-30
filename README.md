@@ -13,4 +13,4 @@ Frontend design looks like this:
 ![alt text](https://github.com/fpv-life/LocationApp-FrontEnd/blob/master/Pictures/FrontEnd.png)
 
 And when you receive the response the map updates like this:
-![alt text](https://github.com/fpv-life/LocationApp-FrontEnd/blob/master/Pictures/Map%20response.PNG.png)
+![alt text](https://github.com/fpv-life/LocationApp-FrontEnd/blob/master/Pictures/Map%20response.PNG)
