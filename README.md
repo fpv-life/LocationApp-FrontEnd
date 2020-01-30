@@ -7,7 +7,10 @@ To work, this app uses:
 - node.js
 - react.js
 
-Frontend design looks like this:
-![alt text](https://github.com/fpv-life/LocationApp-FrontEnd/blob/master/FrontEnd.png)
-
 The backend is stored here [BackEnd Part](https://github.com/fpv-life/LocationApp-BackEnd "BackEnd Part") 
+
+Frontend design looks like this:
+![alt text](https://github.com/fpv-life/LocationApp-FrontEnd/blob/master/Pictures/FrontEnd.png)
+
+And when you receive the response the map updates like this:
+![alt text](https://github.com/fpv-life/LocationApp-FrontEnd/blob/master/Pictures/Map%20response.PNG.png)
