@@ -74,7 +74,7 @@ const App = () => {
   const sendFunction = function(){
     axios({
       "method":"POST",
-      "url":"http://localhost:8080",
+      "url":"http://map.tilenkelc.si",
       "headers":{
         "content-type":"application/api",
       },
