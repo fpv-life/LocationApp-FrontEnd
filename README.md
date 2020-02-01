@@ -9,7 +9,7 @@ To work, this app uses:
 
 The backend is stored here [BackEnd Part](https://github.com/fpv-life/LocationApp-BackEnd "BackEnd Part") 
 
-The website is also on hosting site, you can visit it here [Location app website](https://map.tilenkelc.si "Location app website") 
+Both front end and back end is also on hosting site, you can visit it here [Location app website](https://map.tilenkelc.si "Location app website") 
 
 Frontend design looks like this:
 ![alt text](https://github.com/fpv-life/LocationApp-FrontEnd/blob/master/Pictures/FrontEnd.png)
